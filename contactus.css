@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+
+
+p {
+    text-align: center;
+}
+
+body {
+
+
+    background: linear-gradient(rgb(12, 180, 192), rgb(11, 107, 97));
+}
+
+#containerbox {
+    background-color: rgb(240, 243, 240);
+    width: 440px;
+    height: 370px;
+    border: 2px solid black;
+    margin-left: 570px;
+}
+
+form {
+    text-align: center;
+ 
+}
+
+img {
+    width: 200px;
+   
+}

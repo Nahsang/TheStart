@@ -1,0 +1,63 @@
+@keyframes slideinleft { 
+from{
+transform: translateX(-300px);
+}
+to {
+transform: translateX(0);
+}
+}
+
+.heading-1{
+    animation-name: slideinleft;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-duration: normal;
+    animation-fill-mode: forwards;
+
+
+transform: translateX(-150px)
+}
+
+
+div{
+background-color: rgb(0, 0, 0);
+border: 1px solid;color: black; width: 1;
+font-style: italic;
+text-align: center;
+padding: 100px;
+padding-left: 10px;
+flex-direction: column;
+
+
+}
+
+li{ 
+    
+}
+
+Body{  
+    background-color: rgb(151, 15, 139);
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    text-decoration: blink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    color: blanchedalmond;
+    margin: 10px;
+    margin-left:  25px;
+
+ 
+
+}
+
+h2{
+
+    
+}
+img{
+border-radius: 50%;
+
+}
